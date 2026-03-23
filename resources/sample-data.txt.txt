@@ -1,0 +1,12 @@
+Sample Steps:
+
+1. Run users.js
+2. Copy ObjectIds
+3. Run wallets.js
+4. Run operations.js
+
+Example:
+checkBalance("USER_ID")
+addMoney("USER_ID", 500)
+sendMoney("USER1", "USER2", 100)
+viewTransactions("USER_ID")
