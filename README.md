@@ -15,8 +15,8 @@ fintech-wallet-mongodb/
 │   └── 5_operations.js
 │
 └── resources/
-    ├── resources.txt
     ├── usage.txt
+    ├── sample-data.txt
     └── screenshots/
 ```
 ## 📌 Description
