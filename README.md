@@ -1,6 +1,24 @@
 # fintechWallet-mongodb-Ke
 Simple fintech wallet using MongoDB
 
+## 📁 Project Structure
+
+```
+fintech-wallet-mongodb/
+│
+├── README.md
+├── src/
+│   ├── 1_setup.js
+│   ├── 2_users.js
+│   ├── 3_wallets.js
+│   ├── 4_transactions.js
+│   └── 5_operations.js
+│
+└── resources/
+    ├── resources.txt
+    ├── usage.txt
+    └── screenshots/
+```
 ## 📌 Description
 This project simulates a simple digital wallet system using MongoDB.
 
