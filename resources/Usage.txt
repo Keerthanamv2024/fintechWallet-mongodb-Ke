@@ -1,0 +1,15 @@
+Steps:
+
+1. Run setup.js
+2. Run users.js
+3. Copy ObjectIds from users
+4. Run wallets.js
+5. Run transactions.js
+6. Run operations.js
+
+Examples:
+
+checkBalance("69c15c02c00b3b818926740f")
+addMoney("69c15c02c00b3b818926740f", 500)
+sendMoney("69c15b96c00b3b818926740c", "69c15ad5c00b3b818926740a", 100)
+viewTransactions("69c15ad5c00b3b818926740a")
